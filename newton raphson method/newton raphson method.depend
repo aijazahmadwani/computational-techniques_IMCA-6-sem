@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608706994 source:c:\users\user\desktop\newton raphson method\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
