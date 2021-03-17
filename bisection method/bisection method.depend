@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1514140574 source:c:\users\user\desktop\computational techniques programs\bisection method\main.c
+1608745572 source:c:\users\user\desktop\computational techniques programs\bisection method\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
 
