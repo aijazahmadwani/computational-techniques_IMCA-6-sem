@@ -10,8 +10,8 @@ int main()
     printf("Enter the value of x1 and x2: ");
     scanf("%f%f",&x1,&x2);
     do{
-        f1=x1*x1*x1-4*x1-9;
         f2=x2*x2*x2-4*x2-9;
+        f1=x1*x1*x1-4*x1-9;
         x3=(x1+x2)/2;
         f3=x3*x3*x3-4*x3-9;
         if(f1*f3<0){

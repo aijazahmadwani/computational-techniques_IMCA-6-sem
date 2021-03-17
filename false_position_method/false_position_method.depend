@@ -1,6 +1,6 @@
 # depslib dependency file v1.0
-1615948508 source:c:\users\user\desktop\computational techniques programs\false_position_method\main.c
+1615986209 source:c:\users\user\desktop\computational techniques programs\false_position_method\main.c
 	<stdio.h>
-	<stdlib.h>
+	<conio.h>
 	<math.h>
 
