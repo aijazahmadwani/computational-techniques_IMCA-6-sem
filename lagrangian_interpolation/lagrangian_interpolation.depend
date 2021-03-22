@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616431117 source:c:\users\user\desktop\computational techniques programs\lagrangian_interpolation\main.c
+	<stdio.h>
+	<stdlib.h>
+
