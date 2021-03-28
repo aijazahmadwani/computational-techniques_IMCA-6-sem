@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616944181 source:c:\users\user\desktop\computational techniques programs\least_square_method\main.c
+	<stdio.h>
+	<stdlib.h>
+
